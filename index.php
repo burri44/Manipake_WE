@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>Burri's Übungen</h1>
-<p>Übungsblatt 1:</p>
+<p>Übungsblatt 1: 25.09.2017</p>
 <ul>
     <?php
     for($Aufgaben = 1;$Aufgaben <= 7;$Aufgaben++){
