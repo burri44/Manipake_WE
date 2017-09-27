@@ -5,8 +5,8 @@
     <title>hello</title>
 </head>
 <body>
-<h1>Burri's Übungen</h1>
-<p>Übungsblatt 1:</p>
+<h1>Burri's Uebungen</h1>
+<p>Uebungsblatt 1:</p>
 <ul>
     <?php
     for($Aufgaben = 1;$Aufgaben <= 7;$Aufgaben++){
@@ -15,8 +15,10 @@
     }
 
 ?>
-    <p>Übungsblatt 1:</p>
-    <li><a href="\Burri\PHP-Übungen Teil 2\Formular.html"</a></li>
+</ul>
+<ul>
+    Uebungsblatt 2:
+    <li><a href="\Burri\PHP-Uebungen Teil 2\Formular.html">Formular</a></li>
 </ul>
 </body>
 </html>
