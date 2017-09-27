@@ -18,7 +18,7 @@
 </ul>
 <ul>
     Uebungsblatt 2:
-    <li><a href="\Burri\PHP-Übungen Teil 2\Formular.html">Formular</a></li>
+    <li><a href="\Burri\PHP-Übungen Teil 2\Formular.php">Formular</a></li>
 </ul>
 </body>
 </html>
