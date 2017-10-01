@@ -3,10 +3,9 @@ session_start();
 
 include "pruef.inc.php";
 
-echo "Herzlich willkommen ".$_SESSION['name'];
-echo "<br>";
-echo "Ihre Session-ID: ".session_id();
-echo "<br>";
-
+echo "Guten Tag ".$_SESSION['name'];
+echo "<br/>";
+echo "Ihre Session-ID lautet: ".session_id()."<br/>";
 ?>
-<a href = "index.php">Logout</a>
+<a href="index.php">Logout</a>
+

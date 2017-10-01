@@ -1,7 +1,8 @@
 <?php
-if($_SESSION['eingeloggt'] != 'bb2017'){
-    echo "Sie haben keinen Zugriff hier </br>";
-    echo "<a href = 'index.php'Zum Login</a>";
+if (@$_SESSION['eingeloggt']!='ak23')
+{
+    echo "Sie haben hier keinen Zugriff <br/>";
+    echo "<a href='index.php'>Hier gehts zum Login</a>";
     exit();
-
-}
+} 
+?>
