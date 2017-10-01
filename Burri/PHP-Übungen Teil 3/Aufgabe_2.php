@@ -29,10 +29,8 @@ if(isset($_POST['ausw'])){
         $daten[$x] = explode('|', $daten[$x]);
         $email = $daten[$x][2];
         $time = $daten[$x][1];
-        $email = str_replace(' ','',$email);
-        echo $email."+".$text."<br>";
+        $email = preg_replace('/\s+/','',$email);
         if(strcmp($email, $text) == 0){
-            echo $email." ".$time;
         if($ausgabe[$text][0] == 0){
             $ausgabe[$text][0] = $time;
         }
@@ -41,7 +39,14 @@ if(isset($_POST['ausw'])){
         }
         }
     }
-    echo ($ausgabe[$text][1]-$ausgabe[$text][0]);
+    $differenz = $ausgabe[$text][1]-$ausgabe[$text][0];
+    if($differenz > 3600)
+        echo $text.": Zeit zwischen Logins = ".($differenz/3600)." Stunden";
+    else if($differenz > 60)
+        echo $text.": Zeit zwischen Logins = ".($differenz/60)." Minuten";
+    else
+        echo $text.": Zeit zwischen Logins = ".($differenz)." Sekunden";
+
 }
 
 ?>

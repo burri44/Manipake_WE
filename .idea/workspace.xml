@@ -62,24 +62,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="log.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="log.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Burri/PHP-Übungen Teil 3/log.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Aufgabe_2.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Aufgabe_2.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Burri/PHP-Übungen Teil 3/Aufgabe_2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="829">
-              <caret line="39" column="28" lean-forward="false" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+            <state relative-caret-position="229">
+              <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
               <folding>
-                <marker date="1506830976097" expanded="true" signature="1103:1259" ph="..." />
-                <marker date="1506830976097" expanded="true" signature="1307:1444" ph="..." />
+                <marker date="1506831679725" expanded="true" signature="1331:1487" ph="..." />
+                <marker date="1506831679725" expanded="true" signature="1535:1672" ph="..." />
               </folding>
             </state>
           </provider>
@@ -123,8 +123,8 @@
         <option value="$PROJECT_DIR$/Burri/PHP-Übungen Teil 3/Formular.php" />
         <option value="$PROJECT_DIR$/Burri/PHP-Übungen Teil 3/Aufgabe_1.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/Burri/PHP-Übungen Teil 3/log.txt" />
         <option value="$PROJECT_DIR$/Burri/PHP-Übungen Teil 3/Aufgabe_2.php" />
+        <option value="$PROJECT_DIR$/Burri/PHP-Übungen Teil 3/log.txt" />
       </list>
     </option>
   </component>
@@ -325,12 +325,12 @@
       <option name="presentableId" value="Default" />
       <updated>1506248842187</updated>
       <workItem from="1506451349440" duration="1128000" />
-      <workItem from="1506769151632" duration="14336000" />
+      <workItem from="1506769151632" duration="15147000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15464000" />
+    <option name="totallyTimeSpent" value="16275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3872" height="2116" extended-state="6" />
@@ -463,22 +463,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Burri/PHP-Übungen Teil 3/log.txt">
+    <entry file="file://$PROJECT_DIR$/Burri/PHP-Übungen Teil 3/Aufgabe_2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="229">
+          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding>
+            <marker date="1506831679725" expanded="true" signature="1331:1487" ph="..." />
+            <marker date="1506831679725" expanded="true" signature="1535:1672" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Burri/PHP-Übungen Teil 3/Aufgabe_2.php">
+    <entry file="file://$PROJECT_DIR$/Burri/PHP-Übungen Teil 3/log.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="829">
-          <caret line="39" column="28" lean-forward="false" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
-          <folding>
-            <marker date="1506830976097" expanded="true" signature="1103:1259" ph="..." />
-            <marker date="1506830976097" expanded="true" signature="1307:1444" ph="..." />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
