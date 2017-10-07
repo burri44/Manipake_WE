@@ -13,6 +13,8 @@
 <?php
 if(isset($_POST['grösse']) && isset($_POST['gewicht'])){
 include 'bodyMass.php';
+$grösse = $_POST['grösse'];
+$gewicht = $_POST['gewicht'];
 $bmi = calculate($grösse, $gewicht);
 print("Ihr BMI beträgt: ".$bmi);
 }

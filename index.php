@@ -44,6 +44,16 @@
     }
 
     ?>
+</ul>
+<p>Uebungsblatt 5:</p>
+<ul>
+    <?php
+    for($Aufgaben = 1;$Aufgaben <= 1;$Aufgaben++){
+        $Link = "\Burri\PHP-Übungen Teil 5\Aufgabe_".$Aufgaben.".php";
+        print("<li><a href=\"".$Link."\"> Aufgabe ".$Aufgaben."</a></li>");
+    }
 
+    ?>
+</ul>
 </body>
 </html>
