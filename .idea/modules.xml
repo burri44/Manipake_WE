@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Manipake_WE.iml" filepath="$PROJECT_DIR$/.idea/Manipake_WE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../house-mgmt/.idea/house-mgmt.iml" filepath="$PROJECT_DIR$/../house-mgmt/.idea/house-mgmt.iml" />
     </modules>
   </component>
 </project>
